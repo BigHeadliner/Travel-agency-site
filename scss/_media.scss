@@ -316,7 +316,8 @@
                 padding: 14px 13px;
                 display: block;
                 width: 105px;
-                height: 57px;
+                height: 57px; 
+                font-size: 14px;
             }
     
             .tour__top-subtitle {
@@ -994,6 +995,11 @@
     
             .footer-inner__social-items {
                 margin-bottom: 47px;
+            }  
+              
+            .footer-inner__service-title, 
+            .footer-inner__contact-title {
+                margin-bottom: 25px; 
             }
     
         }
